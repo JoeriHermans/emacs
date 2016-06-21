@@ -1,4 +1,4 @@
-# javascript-emacs
+# emacs-config
 GNU Emacs configuration.
 
 Based on the Emacs configuration of Przemek Hardyn.
