@@ -1,5 +1,7 @@
 # javascript-emacs
-GNU Emacs configuration for JavaScript development.
+GNU Emacs configuration.
+
+Based on the Emacs configuration of Przemek Hardyn.
 
 ## Features
 
