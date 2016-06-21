@@ -1,4 +1,3 @@
-
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;                RECOMPILE DIRECTORY AND ALL FILES IF NECESSARY              ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -103,7 +102,7 @@
       version-control t)
 
 ;; Set default font size:
-(set-face-attribute 'default nil :height 140)
+(set-face-attribute 'default nil :height 90)
 
 ;; Remove trailing whitespaces on save:
 (add-hook 'before-save-hook 'delete-trailing-whitespace)
